@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Ilya Nikishin 👋
 
-<!--
-**inikishin/inikishin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enthusiastic Full Stack Developer passionate by React and Django.
 
-Here are some ideas to get you started:
+### 👯 I’m looking to collaborate on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Complex highly-loads projects.
+
+
+### Preffered stack:
+
+* Python
+* JavaScript
+* Django
+* React
+* DjangoREST
+* HTML5
+* CSS3
+
+### 📫 How to reach me:
+* email: inikishin@gmail.com
+* telegram: @ilyanikishin
