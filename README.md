@@ -17,6 +17,10 @@ Complex highly-loads projects.
 * HTML5
 * CSS3
 
+### Projects
+
+* [BattleField](https://github.com/inikishin/BattleField) - small funny realization of the game Battle Field in console.
+
 ### 📫 How to reach me:
 * email: inikishin@gmail.com
 * telegram: @ilyanikishin
