@@ -2,7 +2,7 @@
 
 Enthusiastic Full Stack Developer passionate by React and Django.
 
-### 👯 I’m looking to collaborate on 
+### 👯 I’m looking for collaborate on 
 
 Complex highly-loads projects.
 
